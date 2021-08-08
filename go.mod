@@ -1,3 +1,3 @@
-module github.com/DilshodK0592/bank
+module github.com/DilshodK0592/bankp
 
 go 1.16
